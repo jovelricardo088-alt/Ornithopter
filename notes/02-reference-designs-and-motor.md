@@ -1,8 +1,8 @@
 # Reference Designs and Motor
 
-![Page 33](../scans/page-33.jpg)
-![Page 34](../scans/page-34.jpg)
-![Page 35](../scans/page-35.jpg)
+![Page 33](../scans/page-33.png)
+![Page 34](../scans/page-34.png)
+![Page 35](../scans/page-35.png)
 
 ## Page 33: Reference design (Phoenix)
 
