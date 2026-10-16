@@ -1,6 +1,6 @@
 # Gears and Mechanism
 
-![Page 32](../scans/page-32.jpg)
+![Page 32](../scans/page-32.png)
 
 ## What my notes say
 
