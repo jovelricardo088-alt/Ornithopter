@@ -1,9 +1,9 @@
 # Aerodynamics
 
-![Page 36](../scans/page-36.jpg)
-![Page 37](../scans/page-37.jpg)
-![Page 38](../scans/page-38.jpg)
-![Page 39](../scans/page-39.jpg)
+![Page 36](../scans/page-36.png)
+![Page 37](../scans/page-37.png)
+![Page 38](../scans/page-38.png)
+![Page 39](../scans/page-39.png)
 
 ## Page 36: Lift, weight, thrust, drag
 
