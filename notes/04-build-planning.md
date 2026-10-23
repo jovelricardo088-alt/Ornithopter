@@ -1,7 +1,7 @@
 # Build Planning
 
-![Page 40](../scans/page-40.jpg)
-![Page 43](../scans/page-43.jpg)
+![Page 40](../scans/page-40.png)
+![Page 43](../scans/page-43.png)
 
 ## Page 40: Scaling laws and weight budget
 
