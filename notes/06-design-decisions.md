@@ -26,7 +26,7 @@ My plan changed several times as I researched. This file records each change and
 
 **Considered (page 42):** buying a slower 300-500 RPM motor, so I wouldn't need gear reduction. It would be simpler and lighter, with more torque.
 
-**Chosen:** keep the high-RPM motor I already have (12,000 RPM [confirm], see below) and use a gear train and PWM speed control.
+**Chosen:** keep the high-RPM motor I already have (12,000 RPM) and use a gear train and PWM speed control.
 
 **Why:**
 - Weight will load the motor and slow it down, so a low-output motor could be too weak to flap the wings.
@@ -43,7 +43,7 @@ My plan changed several times as I researched. This file records each change and
 
 ## Open questions
 
-- **Motor speed:** my notes say 16,000 RPM, but I later said 12,000 RPM. I need to check the motor's label or datasheet. With the 30:1 gear train on page 42, a 12,000 RPM motor gives about 400 RPM (about 6.7 flaps per second, no load), which is close to my 6 flap target.
-- **Flap target:** page 41 says I would use 8 flaps per second with 10T : 58T gears, but I now plan for 6. Update page 41 or add a note there so the pages agree.
+- **Motor speed:** my notes say 16,000 RPM, but I later said 12,000 RPM. I need to check the motor's label or datasheet since those are guesses based on Google information. With the 30:1 gear train on page 42, a 12,000 RPM motor gives about 400 RPM (about 6.7 flaps per second, no load), which is close to my 6 flap target.
+- **Flap target:** page 41 says I would use 8 flaps per second with 10T : 58T gears, but I now plan for 6. 
 - **Gears vs. a slower motor:** more gear stages add weight and friction. I haven't tested whether the gear train or a slower motor works better at under 100 g. I should test both if I can.
 - **Real flap rate:** the RPM numbers are no-load. I'll measure the actual flap rate once the mechanism is printed and use PWM to adjust it.
