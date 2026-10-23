@@ -1,7 +1,7 @@
 # Gear Ratio
 
-![Page 41](../scans/page-41.jpg)
-![Page 42](../scans/page-42.jpg)
+![Page 41](../scans/page-41.png)
+![Page 42](../scans/page-42.png)
 
 ## Page 41: Calculating the ratio
 
