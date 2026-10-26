@@ -17,7 +17,7 @@ My goal is to research and learn more about aerodynamics and how those forces cr
 
 Research and mechanism design are done. I've printed the first parts of the flapping mechanism (a 60-tooth gear, connecting links, and a pin) and am testing how they fit and move together. See the [prototype log](prototype-log.md) for print results and what I'm changing next.
 
-![Fusion assembly of the flapping mechanism](cad/fusion_assembly_v1.jpeg)
+![Fusion assembly of the flapping mechanism](cad/fusion_assembly_v1.png)
 
 *Current mechanism in Fusion: two meshed 60-tooth gears, each driving a connected link that carries a wing.*
 
