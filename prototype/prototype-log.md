@@ -37,7 +37,7 @@ Back to the [main README](README.md).
 
 ![Fusion assembly of the flapping mechanism](/cad/fusion_assembly_v1.png)
 
-**Files:** see the [cad/](cad/) folder.
+**Files:** see the [cad/](/cad/) folder.
 
 ---
 
@@ -53,7 +53,7 @@ Back to the [main README](README.md).
 
 **Next step:** Fix the hole problem first (see below), then reprint.
 
-![Printed 60-tooth gear](images/gear_60_print1.png)
+![Printed 60-tooth gear](/images/gear_60_print1.png)
 
 ---
 
@@ -69,7 +69,7 @@ Back to the [main README](README.md).
 
 **Next step:** Enlarge the holes in CAD and reprint.
 
-![Blue connecting link](images/link_blue_print1.png)
+![Blue connecting link](/images/link_blue_print1.png)
 
 ---
 
@@ -83,13 +83,13 @@ Back to the [main README](README.md).
 
 **Next step:** Same hole fix, plus a retraction/temperature adjustment.
 
-![Orange connecting link](images/link_orange_print1.png)
+![Orange connecting link](/images/link_orange_print1.png)
 
 ---
 
 ## Print 1: Pin (yellow)
 
-![Yellow pin](images/pin_yellow_print1.png)
+![Yellow pin](/images/pin_yellow_print1.png)
 
 ---
 
