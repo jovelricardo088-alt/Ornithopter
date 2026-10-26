@@ -35,7 +35,7 @@ Back to the [main README](README.md).
 
 **Why I started with the mechanism:** My first attempt was modeling the whole ornithopter at once, which cost me months. Starting with the wing mechanism lets me test the flapping before designing the full body.
 
-![Fusion assembly of the flapping mechanism](cad/fusion_assembly_v1.png)
+![Fusion assembly of the flapping mechanism](/cad/fusion_assembly_v1.png)
 
 **Files:** see the [cad/](cad/) folder.
 
