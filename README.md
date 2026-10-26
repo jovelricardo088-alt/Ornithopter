@@ -6,20 +6,30 @@ A flapping-wing aircraft project to research and learn how aerodynamic forces (l
 
 My goal is to research and learn more about aerodynamics and how those forces create flight through an ornithopter. In the future, I want to go beyond a single design and test different wing designs, sizes, and materials to see how they change the ornithopter's performance and reactions.
 
+## Start Here
+
+- **See my progress:** [prototype-log.md](prototype-log.md) has dated print results, failures, and next steps.
+- **See the design:** the [cad/](cad/) folder has my Fusion 360 files and exports.
+- **See the printed parts:** the [images/](images/) folder has photos of my 3D-printed parts.
+- **See the research:** [notes/](notes/) has my typed research notes, and [scans/](scans/) has the original handwritten pages.
+
 ## Project Status
 
-Research and mechanism design are done, and I'm now 3D printing the flapping mechanism (the wings first, then the full body). 
+Research and mechanism design are done. I've printed the first parts of the flapping mechanism (a 60-tooth gear, connecting links, and a pin) and am testing how they fit and move together. See the [prototype log](prototype-log.md) for print results and what I'm changing next.
 
-**Coming soon:** my `prototype-log.md` (print results, failures, and next steps) and my Fusion 360 `cad/` files. I'm still organizing them and will add them as soon as they're ready.
+![Fusion assembly of the flapping mechanism](cad/fusion_assembly_v1.jpeg)
+
+*Current mechanism in Fusion: two meshed 60-tooth gears, each driving a connected link that carries a wing.*
 
 ## How This Repository Is Organized
 
 | Folder / File | What's in it |
 |---|---|
-| `notes/` | Typed versions of my handwritten research notes, organized by topic |
-| `scans/` | Photos of the original handwritten notebook pages (pages 32-43) |
-| `cad/` | *Coming soon:* my Fusion 360 design files and exports |
-| `prototype-log.md` | *Coming soon:* dated progress, print results, failures, and next steps |
+| [`prototype-log.md`](prototype-log.md) | Dated progress, print results, failures, and next steps |
+| [`cad/`](cad/) | My Fusion 360 design files and exports |
+| [`images/`](images/) | Photos of my 3D-printed parts |
+| [`notes/`](notes/) | Typed versions of my handwritten research notes, organized by topic |
+| [`scans/`](scans/) | Photos of the original handwritten notebook pages (pages 32-43) |
 
 ### Why there are two sets of notes
 
