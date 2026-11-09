@@ -106,20 +106,22 @@ Back to the [main README](README.md).
 **Fixes to try**
 
 In Fusion (design side):
-- [ ] Make every hole about 0.3-0.4 mm larger than the screw or pin diameter
-- [ ] Add a small chamfer (about 0.4 mm) to the bottom edge of each hole to offset first-layer squish
+- [done] Make every hole about 0.3-0.4 mm larger than the screw or pin diameter
+- [done] Add a small chamfer (about 0.4 mm) to the bottom edge of each hole to offset first-layer squish
 
 
 In the slicer (print side):
-- [ ] Turn off the raft
-- [ ] Set the brim to outside only (no brim inside holes)
-- [ ] Check the first-layer preview to see whether the holes are open before printing
-- [ ] Use a hole or horizontal expansion setting, or lower the first-layer squish / adjust Z offset
+- [done ] Turn off the raft
+- [done] Set the brim to outside only (no brim inside holes)
+- [done ] Check the first-layer preview to see whether the holes are open before printing
 
 After printing:
 - [ ] Clean out holes with a drill bit by hand, sized to the screw or pin
-- [ ] Test-fit a screw before printing more parts
+- [done ] Test-fit a screw before printing more parts
 
+Results:
+- the gear came out cleaner. However, the holes still didn't go through completely.
+- I will try to just drill the holes or use a better 3d printer from my school.
 
 
 ## Next Steps
