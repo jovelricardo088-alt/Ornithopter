@@ -91,6 +91,8 @@ Back to the [main README](README.md).
 
 ![Yellow pin](/images/pin_yellow_print1.png)
 
+## Problem: It's not long enough
+
 ---
 ## Gear v2: Better Holes, Base Still Sticking
 **What changed:** I printed a new gear with improved hole that go through all the way.
@@ -100,8 +102,6 @@ Back to the [main README](README.md).
 ## Print 2: New Gear (orange)
 ![Orange gear](/images/02-Gear-Front.png)
 
-
-## Problem: none
 
 **What happened:** On the gear and both links, the holes are closed or only partly open. The bottom of the print (the layer against the print bed) sticks across the hole, so nothing passes all the way through. I couldn't remove it cleanly, and the screws and pin can't connect the parts. Since the mechanism depends on these holes, none of the printed parts work yet.
 
