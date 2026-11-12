@@ -92,6 +92,14 @@ Back to the [main README](README.md).
 ![Yellow pin](/images/pin_yellow_print1.png)
 
 ---
+## Gear v2: Better Holes, Base Still Sticking
+**What changed:** I printed a new gear with improved hole that go through all the way.
+
+**Result:** The holes came out better, but the base of the gear still stuck to the bottom of the part 
+
+## Print 2: New Gear (orange)
+![Orange gear](/images/02-Gear-Front.png)
+
 
 ## Problem: none
 
