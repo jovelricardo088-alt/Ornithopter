@@ -93,6 +93,18 @@ Back to the [main README](README.md).
 
 ## Problem: It's not long enough
 
+## Fit Problem: Shafts and Screw Holes
+
+**Problem:** I bought some shafts so I wouldn't have to make small screws, but the metal shafts I bought are 1 mm in diameter, which is too thin for the 2 mm holes I designed in my parts.
+
+**Plan A:** 3D print my own pins/screws and fit them into the existing 2 mm holes. Starting point is a 1.95 mm diameter. Since printed holes usually come out slightly small, I may need to reduce the pin diameter (about 1.8 mm) or enlarge the holes (2.2 mm) so the moving parts can spin freely.
+
+**Plan B (if Plan A fails):** Change the holes in my parts to fit the 1 mm shafts. I will start around 1.2 mm for free-spinning joints, since a 1.05 mm hole will probably be too tight after printing.
+
+**Test:** Print a small strip with holes at several sizes and test each pin and shaft in them. I will record which size works for my printer.
+
+**Result:** (to be added)
+
 ---
 ## Gear v2: Better Holes, Base Still Sticking
 **What changed:** I printed a new gear with improved hole that go through all the way.
